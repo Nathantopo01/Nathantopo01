@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Nathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/nathaniel-topolewski
+[linkedin]: [https://linkedin.com/in/nathaniel-topolewski](https://www.linkedin.com/in/nathaniel-topolewski-54824618a/)https://www.linkedin.com/in/nathaniel-topolewski-54824618a/
